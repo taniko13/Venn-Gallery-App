@@ -1,0 +1,9 @@
+.GalleryImage{
+    background: #82bb95;
+    width: 180px;
+    height: 70px;
+    margin: 10px;
+    float: left;
+    padding: 8px;
+    box-sizing: border-box;
+}

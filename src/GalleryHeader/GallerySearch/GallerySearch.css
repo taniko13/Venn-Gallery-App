@@ -1,0 +1,10 @@
+.gallerySearch{
+    margin-bottom: 10px;
+}
+.serachDropDown{
+    display: -webkit-box;
+    position: inherit;
+    margin-left: 700px;
+    margin-top: -25px;
+    height: 22px;
+}

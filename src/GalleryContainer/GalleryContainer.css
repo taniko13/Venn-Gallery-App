@@ -1,0 +1,10 @@
+.Gallery-container{
+    background-color: blanchedalmond;
+    max-height: 30px;
+}
+.area{
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    background: #e5e5e5;
+}
